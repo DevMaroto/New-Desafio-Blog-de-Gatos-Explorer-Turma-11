@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Desafio que foi atualizado na plataforma com o intuito de melhor entendimento.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://devmaroto.github.io/New-Desafio-Blog-de-Gatos-Explorer-Turma-11/)
 
 ## 🔖 Layout
 
