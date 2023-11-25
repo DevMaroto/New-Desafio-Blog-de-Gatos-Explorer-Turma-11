@@ -3,19 +3,9 @@
 <p align="center"> Stage 3 Challenge Completed in Responsiveness and Animation (New Updated Platform Challenge).</p>
 
 
-## (Mode Desktop)
-<p align="center">
-  <img alt="License" src="https://github.com/DevMaroto/New-Desafio-Blog-de-Gatos-Explorer-Turma-11/blob/Main/assets/preview%20desk.png"/>
-</p>
+## (Cat Blog)
 
-<br>
-
-## (Mode Mobile)
-
-<p align="center">
-    <img alt="License" src="https://github.com/DevMaroto/New-Desafio-Blog-de-Gatos-Explorer-Turma-11/blob/Main/assets/preview2%20mobile.png"/>
-</p>
-
+https://github.com/DevMaroto/New-Desafio-Blog-de-Gatos-Explorer-Turma-11/assets/88672028/335565c7-13e7-49b2-9b3a-156f3af20ecd
 
 ## 🚀 Technologies
 
