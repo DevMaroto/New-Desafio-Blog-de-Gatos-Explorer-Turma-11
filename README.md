@@ -1,6 +1,6 @@
 
-<h1 align="center"> New Desafio Blog de Gatos Explorer Turma 11 </h1>
-<p align="center"> Desafio do stage 3 concluido sobre responsividade e animação(novo desafio atualizado da plataforma).</p>
+<h1 align="center"> New Challenge Cat Blog Explorer Class 11 </h1>
+<p align="center"> Stage 3 Challenge Completed in Responsiveness and Animation (New Updated Platform Challenge).</p>
 
 
 ## (Mode Desktop)
@@ -17,22 +17,22 @@
 </p>
 
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-Desafio que foi atualizado na plataforma com o intuito de melhor entendimento.
+Challenge that was updated on the platform for better understanding.
 
-- [Acesse o projeto finalizado, online](https://devmaroto.github.io/New-Desafio-Blog-de-Gatos-Explorer-Turma-11/)
+- [Access the finished project, online](https://devmaroto.github.io/New-Desafio-Blog-de-Gatos-Explorer-Turma-11/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto completo [CLICANDO AQUI](https://www.figma.com/file/R2fjnghKnIdXlTkc90HdCh/Blog-de-Gatos-%E2%80%A2-Desafio-Explorer-(Community)?type=design&node-id=0-1&mode=design&t=P5Q8KBcDmlWyaKWO-0)
+You can view the complete project layout [CLICKING HERE](https://www.figma.com/file/R2fjnghKnIdXlTkc90HdCh/Blog-de-Gatos-%E2%80%A2-Desafio-Explorer-(Community)?type=design&node-id=0-1&mode=design&t=P5Q8KBcDmlWyaKWO-0)
 <br>
-É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+It is necessary to have an account [Figma](https://figma.com) to access it.
